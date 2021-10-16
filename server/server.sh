@@ -1,0 +1,1 @@
+java -Xms8g -Xmx15g -XX:+UseParallelGC -XX:ParallelGCThreads=2 -XX:+UseNUMA -jar forge-1.16.5-36.2.8.jar nogui
